@@ -10,6 +10,7 @@ module.exports = function ( config ) {
 			'node_modules/wikibase-data-values/src/dataValues.js',
 			'node_modules/wikibase-data-values/src/DataValue.js',
 			'node_modules/wikibase-data-values/src/values/StringValue.js',
+			'node_modules/wikibase-data-values/src/values/MultilineTextValue.js',
 			'node_modules/wikibase-data-values/src/values/UnDeserializableValue.js',
 			'node_modules/wikibase-data-model/src/__namespace.js',
 			'node_modules/wikibase-data-model/src/GroupableCollection.js',
